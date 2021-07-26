@@ -381,7 +381,7 @@ a:hover {
 
 .middle-img{
     text-align:center;
-    margin-left:36%;
+    margin: 0 auto;
     height: 350px;
     width: 300px;
 }
