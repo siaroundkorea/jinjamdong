@@ -378,6 +378,14 @@ a:hover {
 .top-img{
     text-align:center
 }
+
+.middle-img{
+    text-align:center;
+    margin-left:34%;
+    height: 350px;
+    width: 300px;
+}
+
 .bottom-img{
     text-align:center
 }
