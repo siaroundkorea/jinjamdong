@@ -1,4 +1,4 @@
-# jinjamdong
+# 진잠동주민자치회 홈페이지
 
 This project is COPYRIGHTⓒ2021 by AROUNDKorea Corp. ALL RIGHTS RESERVED
  
